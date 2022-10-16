@@ -16,11 +16,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['62895604670507']
-global.ownernomer = "62895604670507"
-global.premium = ['62895604670507','6281328144300']
-global.packname = 'Zenss'
-global.author = 'Cuyy'
+global.owner = ['6282261065144']
+global.ownernomer = "6282261065144"
+global.premium = ['6282261065144','6282261065144']
+global.packname = 'ꜰɪɴ ʙᴏᴛᴢ'
+global.author = 'creator by Fin'
 global.sessionName = 'zenss'
 global.prefa = ['','!','.','#','&']
 global.sp = ''
@@ -29,7 +29,7 @@ global.mess = {
     admin: 'Fitur Khusus Admin Group!',
     botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
     premime: 'Fitur Khusus Premium Kalo Mau Daftar Ketik Sewa',
-    owner: 'Fitur Khusus Owner Bot',
+    owner: 'Fitur Khusus owner ꜰɪɴ ʙᴏᴛᴢ',
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
